@@ -1,0 +1,168 @@
+body {
+  background-color: #f6f5f1;
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #16a596;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0;
+}
+
+h2 {
+  color: #16a596;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #898b8a;
+  font-family: "Rubik", sans-serif;
+}
+
+a {
+  color: #f6f5f1;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+hr {
+  border: dotted #898b8a 6px;
+  border-bottom: none;
+  margin: 80px auto;
+  width: 4%;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.top-container {
+  background-color: #f6f5f1;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #16a596;
+  padding: 30px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 10%;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+  width: 10%;
+}
+
+.skills {
+  margin: 50px auto;
+}
+
+.skill-row-web {
+  margin: 40px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-row-plant {
+  margin: 130px auto;
+  text-align: right;
+  width: 50%;
+}
+
+.skill-row-travel {
+  margin: 60px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.profile {
+  margin: 0 auto 60px;
+  width: 50%;
+}
+
+.mountain-img {
+  width: 40%;
+}
+
+.person-img {
+  margin: 100px auto 0;
+  width: 35%;
+}
+
+.web-img {
+  float: left;
+  margin-right: 50px;
+  width: 25%;
+}
+
+.plant-img {
+  float: right;
+  margin-left: 50px;
+  width: 25%;
+}
+
+.travel-img {
+  float: left;
+  margin-right: 50px;
+  width: 25%;
+}
+
+.contact-me {
+  margin: 60px auto;
+  width: 50%;
+}
+
+.copyright {
+  color: #f6f5f1;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.BUTTON_TZT {
+  background: #ffefa0;
+  background-image: -webkit-linear-gradient(top, #ffefa0, #ffd57e);
+  background-image: -moz-linear-gradient(top, #ffefa0, #ffd57e);
+  background-image: -ms-linear-gradient(top, #ffefa0, #ffd57e);
+  background-image: -o-linear-gradient(top, #ffefa0, #ffd57e);
+  background-image: -webkit-gradient(to bottom, #ffefa0, #ffd57e);
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  color: #898b8a;
+  font-family: "Rubik", sans-serif;
+  font-size: 10px;
+  font-weight: 100;
+  padding: 15px;
+  border: outset #ffefa0 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_TZT:hover {
+  border: solid #ffefa0 1px;
+  background: #ffefa0;
+  background-image: -webkit-linear-gradient(top, #ffefa0, #ffefa0);
+  background-image: -moz-linear-gradient(top, #ffefa0, #ffefa0);
+  background-image: -ms-linear-gradient(top, #ffefa0, #ffefa0);
+  background-image: -o-linear-gradient(top, #ffefa0, #ffefa0);
+  background-image: -webkit-gradient(to bottom, #ffefa0, #ffefa0);
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  text-decoration: none;
+}
