@@ -131,6 +131,11 @@ p {
   padding: 20px 0;
 }
 
+.link {
+  color: #f6f5f1;
+  font-size: 0.75rem;
+}
+
 .BUTTON_TZT {
   background: #ffefa0;
   background-image: -webkit-linear-gradient(top, #ffefa0, #ffd57e);
